@@ -46,8 +46,9 @@ Beyond production systems, I maintain a deep interest in **programming language 
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilayat-ali&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilayat-ali&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilayat-ali&theme=dark&layout=compact" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilayat-ali&theme=dark" />
 </div>
 
 ---
